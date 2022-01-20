@@ -1,0 +1,1 @@
+console.log("revisado e conquistado,dá proximo presto mais atençao na aula...kkk")
